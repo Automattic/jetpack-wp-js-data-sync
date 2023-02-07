@@ -11,3 +11,6 @@ This is an alpha version! The changes listed here are not final.
 
 ### Added
 - Add initial skeleton for the package.y
+
+### Changed
+- Auto-formatting of the package.json.
