@@ -14,4 +14,5 @@ This is an alpha version! The changes listed here are not final.
 - First release
 
 ### Changed
+- Auto-formatting files.
 - Auto-formatting of the package.json.
