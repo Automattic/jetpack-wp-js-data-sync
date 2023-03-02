@@ -12,6 +12,7 @@ This is an alpha version! The changes listed here are not final.
 ### Added
 - Add initial skeleton for the package.y
 - First release
+- More flexible storage driver, built in boolean data handler
 
 ### Changed
 - Auto-formatting files.
